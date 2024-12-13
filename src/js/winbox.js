@@ -21,7 +21,7 @@ const eventOptions = { "capture": true, "passive": false };
 const eventOptionsPassive = { "capture": true, "passive": true };
 let body;
 let id_counter = 0;
-let index_counter = 10;
+let index_counter = 52;
 let is_fullscreen;
 let prefix_request;
 let prefix_exit;
